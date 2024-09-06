@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tolamajek
-- 👀 I’m interested in been a Data Analyst
-- 🌱 I’m currently learning skills required to be a analyst
+- 👀 I’m a Skilled Data Analyst
+- 🌱 I’m Skilled in SQL,Excel,Power BI, Tableau
 - 💞️ I’m looking to collaborate on projects to inprove my skills 
 - 📫 How to reach me tolamajekk@gmail.com
 - 😄 Pronouns: she/her
