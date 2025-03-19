@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tolamajek
 - 👀 I’m a Skilled Data Analyst
-- 🌱 I’m Skilled in SQL,Excel,Power BI, Tableau
+- 🌱 I’m Skilled in SQL,Excel,Power BI, Tableau, Python
 - 💞️ I’m looking to collaborate on projects to inprove my skills 
-- 📫 How to reach me tolamajekk@gmail.com
+- 📫 How to reach me tolaamajek@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: travelling,volunteering
 
